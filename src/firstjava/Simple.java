@@ -10,8 +10,10 @@ public void display()
 {
 int c= a+b;
 System.out.println("addition is " +c);
+System.out.println("simple addition");
 }
-	public static void main(String[] args)
+	
+public static void main(String[] args)
 	{
 	Simple s=new Simple();
 	s.display();
