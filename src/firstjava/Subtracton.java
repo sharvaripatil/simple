@@ -9,6 +9,7 @@ public class Subtracton
 	 {
 		 int c=a-d;
 		  System.out.println("the subtraction is " +c);
+		  System.out.println("subtraction is done");
 		  
 	 }
 
