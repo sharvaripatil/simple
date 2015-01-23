@@ -4,8 +4,6 @@ public class Simple {
 	int a=30;
 	int b=40;
 	
-	
-	
 public void display()
 {
 int c= a+b;
