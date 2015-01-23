@@ -18,7 +18,7 @@ public static void main(String[] args)
 	Simple s=new Simple(); 
 	//s=null;
 	s.display();
-	
+	System.out.println(" Hi I am in simples");
 	}
 
 }
